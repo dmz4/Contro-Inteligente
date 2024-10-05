@@ -1,1 +1,1 @@
-# Contro-Inteligente
+# Control-Inteligente
